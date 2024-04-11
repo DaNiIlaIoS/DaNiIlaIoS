@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaNiIlaIoS
+- 👋 Hi, I’m Daniil Sivozelezov
 - 👀 I’m interested in iOS Development, Games, Movies
 - 🌱 I’m currently learning iOS Development, UIKit, Swift
 - 💞️ I’m looking to collaborate on iOS Development
