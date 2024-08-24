@@ -17,15 +17,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Привет👋 Меня зовут Даниил!</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/DaNiIllSi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -38,32 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👨‍💻 Обо мне</h3>
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
-
-###
-
-<h3 align="left">📺 Последние видео на YouTube</h3>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Кремниевая долина в Москве | Офис Яндекса обзор](https://ytcards.demolab.com/?id=1emacaiQM9Y&title=%D0%9A%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0+%D0%B2+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5+%7C+%D0%9E%D1%84%D0%B8%D1%81+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0+%D0%BE%D0%B1%D0%B7%D0%BE%D1%80&lang=en&timestamp=1724343206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Кремниевая долина в Москве | Офис Яндекса обзор")](https://www.youtube.com/watch?v=1emacaiQM9Y)
-[![Крупнейшая сходка Айтишников | ИТ Пикник](https://ytcards.demolab.com/?id=udFzMRRyG-o&title=%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%B5%D0%B9%D1%88%D0%B0%D1%8F+%D1%81%D1%85%D0%BE%D0%B4%D0%BA%D0%B0+%D0%90%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2+%7C+%D0%98%D0%A2+%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA&lang=en&timestamp=1723971645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Крупнейшая сходка Айтишников | ИТ Пикник")](https://www.youtube.com/watch?v=udFzMRRyG-o)
-[![Лучший инструмент для деплоя приложений | VPS + Coolify](https://ytcards.demolab.com/?id=uQXVVBSkrgc&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82+%D0%B4%D0%BB%D1%8F+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D1%8F+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9+%7C+VPS+%2B+Coolify&lang=en&timestamp=1723389995&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Лучший инструмент для деплоя приложений | VPS + Coolify")](https://www.youtube.com/watch?v=uQXVVBSkrgc)
-[![Он живет внутри Flipper Zero!](https://ytcards.demolab.com/?id=lE1Qf0tdvDw&title=%D0%9E%D0%BD+%D0%B6%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8+Flipper+Zero%21&lang=en&timestamp=1722947563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Он живет внутри Flipper Zero!")](https://www.youtube.com/watch?v=lE1Qf0tdvDw)
-[![Прощай скучное изучение Программирования | Школа 21 как поступить?](https://ytcards.demolab.com/?id=h2JYipYuu-M&title=%D0%9F%D1%80%D0%BE%D1%89%D0%B0%D0%B9+%D1%81%D0%BA%D1%83%D1%87%D0%BD%D0%BE%D0%B5+%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%7C+%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+21+%D0%BA%D0%B0%D0%BA+%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C%3F&lang=en&timestamp=1722756627&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Прощай скучное изучение Программирования | Школа 21 как поступить?")](https://www.youtube.com/watch?v=h2JYipYuu-M)
-[![Прощай YouTube...или нет? | Обход замедления YouTube](https://ytcards.demolab.com/?id=laKJjkPotWY&title=%D0%9F%D1%80%D0%BE%D1%89%D0%B0%D0%B9+YouTube...%D0%B8%D0%BB%D0%B8+%D0%BD%D0%B5%D1%82%3F+%7C+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B7%D0%B0%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+YouTube&lang=en&timestamp=1722615480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Прощай YouTube...или нет? | Обход замедления YouTube")](https://www.youtube.com/watch?v=laKJjkPotWY)
-<!-- END YOUTUBE-CARDS -->
-
-###
+<p align="left">Я начинающий iOS разработчик. Мой путь в it начался со школы программирования Codeco, где я успешно прошел обучение. Мотивированный и целеустремленный iOS разработчик с опытом создания приложений на Swift и UIKit. <br><br>- 🔭 Работал над проектами, связанными с отображением фильмов, используя SwiftUI. Обладаю базовыми работы с REST API, Core Data, и Git. <br>- 📚 <br>- ⚡ Постоянно стремлюсь к улучшению своих навыков и изучению новых технологий, активно участвую в разработке собственных приложений и проектов. Имею высокую мотивацию развиваться в команде профессионалов и создавать качественные, удобные для пользователей мобильные приложения.</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -76,25 +52,14 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />        
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />        
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
 ###
