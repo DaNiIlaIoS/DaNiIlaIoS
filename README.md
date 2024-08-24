@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
-
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="swift logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />        
   <img width="12" />
