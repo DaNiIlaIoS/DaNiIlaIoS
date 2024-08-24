@@ -18,6 +18,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://t.me/DaNiIllSi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="mailto:sivozelezovdaniil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
