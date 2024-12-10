@@ -55,6 +55,8 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"/>        
   <img width="12" />
+  <img src="https://git-fork.com/images/logo.png" height="50" alt="fork logo"/>
+  <img width="12" />
 </div>
 
 ###
